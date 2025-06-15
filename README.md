@@ -1,17 +1,24 @@
+<table>
+  <tr>
+    <td valign="top">
+
 ## Hi there 👋 I'm Ravishangaraarya!
 
 Aspiring Web Developer | MCA Graduate | Passionate Problem Solver  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</div>
-
-- 🔭 Here’s my [portfolio](https://portfolio-rv23.netlify.app/)
-- 💻 Currently working on web apps, dashboards, and emissions tracking tools
+- 🔭 Here’s my [portfolio](https://portfolio-rv23.netlify.app/)  
+- 💻 Currently working on web apps, dashboards, and emissions tracking tools  
 - 🌱 Learning Data Visualization, AI integration, and Web Hosting  
-- 📍 Based in Tamil Nadu, India
-- 🛠️ Creator of [Carbon Eco – GHG Emission Calculator](https://monkeydluffy24.pythonanywhere.com/)
-- ⚡ Fun Fact: I love anime and debugging late-night bugs with filter coffee
+- 📍 Based in Tamil Nadu, India  
+- 🛠️ Creator of [Carbon Eco – GHG Emission Calculator](https://monkeydluffy24.pythonanywhere.com/)  
+- ⚡ Fun Fact: I love anime and debugging late-night bugs with filter coffee  
+
+</td>
+<td>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -71,4 +78,3 @@ Aspiring Web Developer | MCA Graduate | Passionate Problem Solver
 ### 💻 Workspace Setup
 <img height="30" src="https://img.shields.io/badge/Lenovo-V15_G2_ALC-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
